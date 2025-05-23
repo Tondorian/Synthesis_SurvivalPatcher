@@ -1,0 +1,13 @@
+{
+  "Nickname": "Survival Patcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Patches food to use the SurvivalMode CC effects",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "ccQDRSSE001-SurvivalMode.esl"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
